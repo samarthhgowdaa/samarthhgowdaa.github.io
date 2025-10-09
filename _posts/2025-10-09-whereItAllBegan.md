@@ -7,31 +7,31 @@ tags: [arduino, micro-controller]
 
 # Better late than sorry!
 
-As an **Electrical and Electronics Engoneering** student, I was a bit  late to get introduced to the platforms, that I wanted to thrive in. As this particular degree in Visvesvaraya Technological University (VTU) only focused only their curriculumn on the **Electrical part**. And the **Electronics** subjects were mostly *neglected* or *left out*.
+As an **Electrical and Electronics Engineering** student, I was a bit late to get introduced to the platforms I wanted to thrive in. The curriculum at Visvesvaraya Technological University (VTU) mainly focuses on **Electrical subjects**, and the **Electronics** part is often *neglected* or *left out*.
 
-I wasn't into only coding or only hardware aspects. I wanted to see how it worked and came to life in **IRL**, I wanted both *hardware* & *software* for that, there is a thing called hardware and software co-design, it's a topic for the future blogs.
+I wasn’t only into coding or just hardware. I wanted to see how things actually **worked in real life**. I wanted both *hardware* and *software* together, a concept called **hardware-software co-design**, which is something I’ll cover in future blogs.
 
 ![arduino](/assets/images/Arduino/arduino.jpg){: width="600" height="auto"}
 _Man of the Show_
 
-I had this pull towards **computers ,tech and the electronic componenets** inside from my childhood. I used to tear apart remote controlled car to get that DC motor inside.
+I’ve had a fascination with **computers, tech, and electronic components** since childhood. I even used to tear apart remote-controlled cars just to see the DC motors inside.
 
-As I was in pre-final year (Because saying 3rd year doesn't give that kick), I was introduced to the **world of Micro-controllers, SBC's and the maker community**, oh god was I happy?! You should have seen my face.
+Being in my pre-final year (because saying “3rd year” doesn’t give the same thrill), I finally got introduced to the **world of microcontrollers, single-board computers (SBCs), and the maker community**. Oh, the joy! You should have seen my face.
 
 ![depiction of my face](https://i.pinimg.com/736x/eb/e9/34/ebe9347dfb9f6db82115a85c8314e68e.jpg){: width="300" height="auto"}
 _Just a depiction_
 
-I've searched for arduino kits online and stumbled upon Quad store's "Super Starter Kit", which comes with a list of projects you can do and also the code, a great start for me.
+I searched online for Arduino kits and stumbled upon Quad Store's **"Super Starter Kit"**, which came with project guides and sample code, a perfect start for a beginner like me.
 
 >And the journey began
 {: .prompt-info}
 
 ## The Kit
 
-![kit-name](/assets/images/Arduino/superStarterKit.jpg){: width="400" height="auto" }
-
-![the-arduino-kit](/assets/images/Arduino/arduinoKit.jpg){: width="400" height="auto" }
-_The Arduino Kit_
+<div style="text-align: center;">
+  <img src="/assets/images/Arduino/superStarterKit.jpg" width="350">
+  <img src="/assets/images/Arduino/arduinoKit.jpg" width="350">
+</div>
 
 This included every possible componenets I didn't know I needed, untill I started doing projects, really a great kit.
 
@@ -88,4 +88,4 @@ If you want to check out the components, here is a Video
 
 {% include embed/youtube.html id='EbCCpz-vous' %}
 
-Well I'll see you in the next blog! till then bye-bye.
+Well, that’s it for now! I’ll see you in the next blog. Till then, bye-bye!.
