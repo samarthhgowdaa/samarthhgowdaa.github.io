@@ -45,7 +45,7 @@ jobs:
           ruby-version: 3.3
           bundler-cache: true
 
-      - name: Clean old site
+      - name: Clean old site # Added this line
         run: rm -rf ./_site
 
       - name: Build site
