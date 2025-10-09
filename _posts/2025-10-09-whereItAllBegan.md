@@ -29,8 +29,8 @@ I searched online for Arduino kits and stumbled upon Quad Store's **"Super Start
 ## The Kit
 
 <div style="text-align: center;">
-  <img src="/assets/images/Arduino/superStarterKit.jpg" width="350">
-  <img src="/assets/images/Arduino/arduinoKit.jpg" width="350">
+  <img src="/assets/images/Arduino/superStarterKit.jpg" width="350" alt='super starter kit'>
+  <img src="/assets/images/Arduino/arduinoKit.jpg" width="350" alt='Arduino kit'>
 </div>
 
 This included every possible componenets I didn't know I needed, untill I started doing projects, really a great kit.
