@@ -27,7 +27,7 @@ robots: true
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://samarthhgowdaa.github.io"
+url: "https://samarthhgowdaa.github.io/"
 
 github:
   username: samarthhgowdaa # change to your GitHub username
@@ -42,7 +42,7 @@ social:
   email: samarthac4work@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-  #  - https://github.com/samarthhgowdaa # change to your Twitter homepage
+    #  - https://github.com/samarthhgowdaa # change to your Twitter homepage
     - https://github.com/samarthhgowdaa # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
@@ -50,7 +50,7 @@ social:
 
 # Site Verification Settings
 webmaster_verifications:
-  google: vlxjVP8WpZTMo8
+  google: # fill in your google code
   bing: # fill in your Bing verification code
   alexa: # fill in your Alexa verification code
   yandex: # fill in your Yandex verification code
