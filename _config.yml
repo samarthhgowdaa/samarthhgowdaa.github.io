@@ -21,6 +21,10 @@ tagline: dream comes true? # it will display as the subtitle
 description: >- # used by seo meta and the atom feed
   And I'll be sharing my journey here.
 
+google_search:
+  enable: true
+robots: true
+
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
 url: "https://samarthhgowdaa.github.io"
@@ -46,7 +50,7 @@ social:
 
 # Site Verification Settings
 webmaster_verifications:
-  google: # fill in your Google verification code
+  google: vlxjVP8WpZTMo8
   bing: # fill in your Bing verification code
   alexa: # fill in your Alexa verification code
   yandex: # fill in your Yandex verification code
