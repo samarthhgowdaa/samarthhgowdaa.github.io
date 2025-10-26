@@ -11,7 +11,7 @@ As an **Electrical and Electronics Engineering** student, I was a bit late to ge
 
 I wasn’t only into coding or just hardware. I wanted to see how things actually **worked in real life**. I wanted both *hardware* and *software* together, a concept called **hardware-software co-design**, which is something I’ll cover in future blogs.
 
-![arduino](/assets/images/Arduino/arduino.jpg){: width="600" height="auto"}
+![arduino](/assets/img/Arduino/arduino.jpg){: width="600" height="auto"}
 _Man of the Show_
 
 I’ve had a fascination with **computers, tech, and electronic components** since childhood. I even used to tear apart remote-controlled cars just to see the DC motors inside.
@@ -29,15 +29,15 @@ I searched online for Arduino kits and stumbled upon Quad Store's **"Super Start
 ## The Kit
 
 <div style="text-align: center;">
-  <img src="/assets/images/Arduino/superStarterKit.jpg" width="350" alt='super starter kit'>
-  <img src="/assets/images/Arduino/arduinoKit.jpg" width="350" alt='Arduino kit'>
+  <img src="/assets/img/Arduino/superStarterKit.jpg" width="350" alt='super starter kit'>
+  <img src="/assets/img/Arduino/arduinoKit.jpg" width="350" alt='Arduino kit'>
 </div>
 
 This included every possible componenets I didn't know I needed, untill I started doing projects, really a great kit.
 
 ### Components Included
 
-![components](/assets/images/Arduino/componentsOfTheKit.jpg){: width="500" height="auto"}
+![components](/assets/img/Arduino/componentsOfTheKit.jpg){: width="500" height="auto"}
 _The components of the kit_
 
 The Kit included:
