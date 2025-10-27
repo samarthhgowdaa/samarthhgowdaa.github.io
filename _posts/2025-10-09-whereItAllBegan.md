@@ -1,7 +1,7 @@
 ---
 title: Where It All Began!
 date: 2025-10-09
-categories: [electronics, arduino]
+categories: [Electronics, Arduino]
 tags: [arduino, micro-controller]
 ---
 
