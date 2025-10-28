@@ -14,7 +14,7 @@ I’ve done this project a million times before, but never actually documented i
 
 The first thing everyone does after getting an Arduino is making that built-in LED blink and that’s where the magic begins. So what next? Let’s connect a few wires and make the software talk to the hardware.
 
-Before we start, you might want to go through my previous blogs on <a href="https://samarthhgowdaa.github.io/posts/Arduino/" target="_blank">Arduino</a>, <a href="https://samarthhgowdaa.github.io/posts/projects/" target="_blank">Projects</a>, and the <a href="https://samarthhgowdaa.github.io/categories/projects/" target="_blank">Catalogue</a>, which is basically a guide to my projects in sequential order.
+Before we start, you might want to go through my previous blogs on <a href="https://samarthhgowdaa.github.io/posts/Arduino/" target="_blank">Arduino</a>, Projects, and the Catalogue, which is basically a guide to my projects in sequential order.
 
 So without further ado, let’s get started!
 
