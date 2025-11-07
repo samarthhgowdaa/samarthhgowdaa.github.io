@@ -105,3 +105,11 @@ void loop()
   delay(1000); 
 }
 ```
+## Tier 3 - PWM
+---
+
+Now, after implementing the first code and few LED's later, I moved on to controlling the Intensity of the light or the brightness of the light through **PWM**, which stands for **Pulse Width Modulation**.
+
+The thing is, we can also use a number of resistors or a potentiometer to control the voltage flow, which indirectly affects the brightness or the intensity of the LED, but why do we need to use a **PWM** for it? This question popped in my head. Why?
+
+
