@@ -34,15 +34,12 @@ The main goal of this stage is simple, plug in a single LED to the Arduino and g
 ![components list](/assets/img/projects/project01/comp_tier1.png){: width="400" height="auto"}
 
 These are the components I used for this tier, nothing fancy, just an LED blinking setup.
-
 ### Schematic
 
 ![Schematic](/assets/img/projects/project01/tier1_schematic.png){: width="400" height="auto"}
-
 ### Circuit
 
 ![Circuit](/assets/img/projects/project01/tier1_tinkerckt.png){: width="400" height="auto"}
-
 ### Code
 
 This looked quite different from standard C++ to me at first. Many call it *Embedded C*, but technically, there’s no separate language called that, it’s just C/C++ used for embedded systems.
@@ -65,3 +62,46 @@ void loop() {
 
 {% include embed/youtube.html id='rqMpww0s4OE' %}
 
+## Tier 2
+---
+After connecting a single LED and making it work, I wanted to do something more, So now, I'm thinking of using 3 LED's with delays such that it can turn off while the other is on, and run it on a loop.
+
+### Components
+![Components list](/assets/img/projects/project01/comp_tier2.png){: width="400" height="auto"}
+
+### Schematic
+
+![tier 2 circuit schematic](/assets/img/projects/project01/tier2_schematic.png){: width="400" height="auto"}
+
+### Circuit
+![tier 2 circuitry](/assets/img/projects/project01/tier2_circuit.png){: width="400" height="auto"}
+
+### Code
+```cpp
+int firstLedPin = 2;
+int secondLedPin = 3;
+int thirdLedPin = 4;
+
+void setup()
+{
+  pinMode(firstLedPin, OUTPUT);
+  pinMode(secondLedPin, OUTPUT);
+  pinMode(thirdLedPin, OUTPUT);
+}
+
+void loop()
+{
+  digitalWrite(firstLedPin, LOW);
+  delay(1000);
+  digitalWrite(firstLedPin, HIGH);
+  delay(1000);
+  digitalWrite(secondLedPin, LOW);
+  delay(1000);
+  digitalWrite(secondLedPin, HIGH);
+  delay(1000);
+  digitalWrite(thirdLedPin, LOW);
+  delay(1000);
+  digitalWrite(thirdLedPin, HIGH);
+  delay(1000); 
+}
+```
