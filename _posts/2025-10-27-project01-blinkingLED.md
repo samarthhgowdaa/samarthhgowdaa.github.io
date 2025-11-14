@@ -229,12 +229,11 @@ But for digital electronics and embedded systems, PWM is the *right* tool.
 
 ### Output
 
-
+{% include embed/youtube.html id='qwHTpr8Wc6c' %}
 
 ---
-
 ## Takeaways
-
+---
 Here’s everything I learned from this project:
 
 1. **GPIOs** – basic digital input & output  
