@@ -5,6 +5,9 @@ categories: [Projects, Arduino]
 tags: [arduino, Deutsch-Diary, projects]
 ---
 
+Days took - 01
+
+
 # Project 01
 
 I’ve done this project a million times before, but never actually documented it anywhere. As I mentioned at the start, this website is my space to track and record detailed documentation of every project I build. If you haven’t read my previous blog, <a href="https://samarthhgowdaa.github.io/posts/whereItAllBegan/" target="_blank">check it out!</a>
@@ -232,7 +235,7 @@ But for digital electronics and embedded systems, PWM is the *right* tool.
 {% include embed/youtube.html id='qwHTpr8Wc6c' %}
 
 ---
-## Takeaways
+## Conclusion
 ---
 Here’s everything I learned from this project:
 
@@ -240,7 +243,12 @@ Here’s everything I learned from this project:
 2. **PWM** – controlling brightness through duty cycle  
 3. **Digital vs Analog Output** – how microcontrollers fake “analog”  
 
-I definitely need more practice to sharpen these skills, and this project was a solid start.  
-Thank you for staying with me till the end, I’ll see you guys in the next project.  
+I definitely need more practice to sharpen these skills, and this project was a solid start. Apart from this, I really need to focus on C and C++ programming languages, because its faster than python, but inevitably I need to learn python because of Raspberry Pi, waiting on my desk. So yeah, that's it, if you wanna check out my other blogs, and want to know more about
+* <a href="https://samarthhgowdaa.github.io/posts/whereItAllBegan/" target="_blank">How it all started!</a>
+* <a href="https://samarthhgowdaa.github.io/posts/projects/" target="_blank">What I'm trying to do</a>
+
+These are the links, check it out.
+
+Thank you for staying with me till the end, I’ll see you guys in the <a>next project</a>.  
 
 **Till then, bye-bye!**
