@@ -125,8 +125,8 @@ That led me to break the topic into three parts:
 3. **Why can’t I just use a potentiometer or a bunch of resistors?**
 
 With the help of the  
-[Arduino Cookbook](https://juniorfall.wordpress.com/wp-content/uploads/2011/11/arduino-cookbook.pdf) by Brian W. Evans, and  
-[Arduino Basics 101](https://youtu.be/BtLwoNJ6klE?si=UDN30_p0IiGMeMu7) by [GreatScott!](https://www.youtube.com/@greatscottlab),  
+<a href="https://juniorfall.wordpress.com/wp-content/uploads/2011/11/arduino-cookbook.pdf" target="_blank">Arduino Cookbook</a> by Brian W. Evans, and  
+<a href="https://youtu.be/BtLwoNJ6klE?si=UDN30_p0IiGMeMu7" target="_blank">Arduino Basics 101</a> by <a href="https://www.youtube.com/@greatscottlab" target="_blank">GreatScott!</a>,  
 
 I finally started piecing everything together. So here’s **my version** of what PWM really is:
 
