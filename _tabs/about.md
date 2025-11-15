@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-Hey, I’m **Samarth Gowda**. I’m an **Electrical and Electronics Engineering student**, but honestly, I’ve always been more into figuring stuff out than just reading textbooks. Ever since I was a kid, I tore apart gadgets just to see how they worked. That curiosity never went away—it just grew bigger, crazier and… well, messier. And trust me, *a lot messier*.  
+Hey, I’m **Samarth Gowda**. I’m an **Electrical and Electronics Engineering student**, but honestly, I’ve always been more into figuring stuff out than just reading textbooks. Ever since I was a kid, I tore apart gadgets just to see how they worked. That curiosity never went away, it just grew bigger, crazier and… well, messier. And trust me, *a lot messier*.  
 
 These days, my world is a mix of **Arduino, C, juggling through different linux distros (I don't use Arch), Python, VHDL, KiCad, SBCs and sometimes Blender & animation**. One day I’m debugging code for a microcontroller, the next I’m designing a PCB, and the day after I’m rendering something in 3D just because I can. Sometimes I feel like I’m juggling ten different worlds at once, but honestly, that chaos is what makes it fun (stress included, of course).  
 
