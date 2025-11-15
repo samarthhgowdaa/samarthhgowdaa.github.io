@@ -249,6 +249,6 @@ I definitely need more practice to sharpen these skills, and this project was a 
 
 These are the links, check it out.
 
-Thank you for staying with me till the end, I’ll see you guys in the <a>next project</a>.  
+Thank you for staying with me till the end, I’ll see you guys in the next project.  
 
 **Till then, bye-bye!**
