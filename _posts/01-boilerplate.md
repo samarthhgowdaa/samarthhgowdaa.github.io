@@ -6,7 +6,7 @@ tags: [tag1, tag2, tag3]
 description: Boiler plate code
 image:
   path: /assets/img/cover.png
-  alt: size 1200 x 630 or 1.91 : 1
+  alt: Image size should be 1200 x 630 or 1.91 : 1
 pin: true
 math: true
 mermaid: true
