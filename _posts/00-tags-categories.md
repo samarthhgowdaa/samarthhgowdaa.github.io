@@ -1,4 +1,4 @@
 # Tags
-ESP32, Deutsch-Diary, Micro-Controller, hello-world, Arduino, projects, 
+esp32, deutsch-diary, micro-controller, hello-world, arduino, projects, 
 
 # Categories

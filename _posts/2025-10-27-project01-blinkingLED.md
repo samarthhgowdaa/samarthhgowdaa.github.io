@@ -2,7 +2,7 @@
 title: LED Blink & PWM
 date: 2025-10-27
 categories: [Projects, Arduino]
-tags: [arduino, deutschDiary, projects]
+tags: [arduino, deutsch-diary, projects]
 ---
 
 Days took - 01

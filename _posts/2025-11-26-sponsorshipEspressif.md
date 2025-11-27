@@ -2,7 +2,7 @@
 title: Sponsorship - Espressif
 date: 2025-11-25 11:43:00 +0530
 categories: [Stories, Sponsorship]
-tags: [ESP32, Deutsch-Diary, Micro-Controller]
+tags: [esp32, deutsch-diary, micro-controller]
 description: I got sponsored by Espressif
 image:
   path: /assets/img/cover.png
