@@ -11,14 +11,14 @@ pin: false
 math: true
 mermaid: true
 ---
-# A trip to the past
+## A trip to the past
 
 27th April 2025, that's the day I started the club with help of my friends, **VEDA - VLSI & Embedded Design Association**, after typing letter after letter addressing HOD of our department (Electrical and Electronics). I had this urge, this stupidly strong urge, to do things people wouldn't dare to attempt, and still today that same urge is very much alive. As *Albert Camus said "I rebel therefore I exist"*.
 
 >I'll make a seperate blog talking about **VEDA**. 
 {: .prompt-info}
 
-# Reality kicks In
+## Reality kicks In
 
 We as a club were not resourceful, didn't have any hardware equipments, boards and books, we couldn't ask college to contribute, this was a student led initiative, if the college enters the picture, we'll be held accountable for every component we break, short-circuit & burnt resistors while we tinker. I wanted my club members to break things, Because that's the only way I know how to learn. 
 
@@ -26,7 +26,7 @@ We as a club were not resourceful, didn't have any hardware equipments, boards a
 
 So I started contacting every company I know, started sending them emails, still sending, many didn't sponsor, many didn't reply and some cared, and among them is <a href="https://www.espressif.com/" target="_blank">**Espressif**</a> and <a href="https://www.raspberrypi.org/" target="_blank">**Raspberry Pi Foundation**</a>.
 
-# How it Began
+## How it Began
 
 I wrote an email to Espressif regarding my situation and talking about the club, I was in-experienced but this approach made Raspberry Pi Foundation sponsor me 4 Raspberry Pi 5 boards, 2x Raspberry pi 5 4GB model & 2x Raspbeery pi 5 8GB model. I thought, It will atleast take a week to get a reply from them, but I got a reply on the next day, September 10th, 2025, and it read something like this;
 
@@ -42,7 +42,7 @@ There was a huge blunder with customs clearance from UPS, but they went above an
 ![They Arrived Home](/assets/img/ESP32/3.jpg){: width="400" height="400"}
 _They Arrived home!_
 
-# Aftermath
+## Aftermath
 
 I dedicate this post to **Espressif** and **Jocelyn Zhang**, for believing in a nobody like me. For a big company, sending a few boards might not mean much, but to me, it meant everything.
 
