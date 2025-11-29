@@ -44,8 +44,6 @@ _They Arrived home!_
 
 ## Aftermath
 
-I dedicate this post to **Espressif** and **Jocelyn Zhang**, for believing in a nobody like me. For a big company, sending a few boards might not mean much, but to me, it meant everything.
-
-Thank you for supporting a student and his dreams. One day, I hope I can repay your kindness.
+I dedicate this post to **Espressif** and **Jocelyn Zhang**, for believing in a nobody like me. For a big company, sending a few boards might not mean much, but to me, it meant everything. Thank you for supporting a student and his dreams. One day, I hope I can repay your kindness.
 
 I'll soon share what I build with these boards here.
