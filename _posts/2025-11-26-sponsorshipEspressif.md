@@ -5,7 +5,7 @@ categories: [Stories, Sponsorship]
 tags: [esp32, deutsch-diary, micro-controller, story]
 description: I got sponsored by Espressif
 image:
-  path: /assets/img/ESP32/cover1.jpg
+  path: /assets/img/ESP32/2.jpg
   alt: ESP32-S3-DevKitC-1
 pin: false
 math: true

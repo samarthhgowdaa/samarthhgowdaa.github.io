@@ -16,7 +16,7 @@ timezone:
 
 title: Samarth Gowda # the main title
 
-tagline: Dreams comes true? # it will display as the subtitle
+tagline: Dreams come true? # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   And I'll be sharing my journey here.
@@ -65,7 +65,8 @@ analytics:
   google:
     id: G-6M97ZJEPF0
   goatcounter:
-    id: # fill in your GoatCounter ID
+    id: <script data-goatcounter="https://samarthhgowdaa.goatcounter.com/count"
+      async src="//gc.zgo.at/count.js"></script>
   umami:
     id: # fill in your Umami ID
     domain: # fill in your Umami domain
