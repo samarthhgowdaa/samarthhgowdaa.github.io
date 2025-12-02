@@ -65,8 +65,7 @@ analytics:
   google:
     id: G-6M97ZJEPF0
   goatcounter:
-    id: <script data-goatcounter="https://samarthhgowdaa.goatcounter.com/count"
-      async src="//gc.zgo.at/count.js"></script>
+    id:
   umami:
     id: # fill in your Umami ID
     domain: # fill in your Umami domain
