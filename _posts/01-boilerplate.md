@@ -10,6 +10,7 @@ image:
 pin: true
 math: true
 mermaid: true
+comments: true
 ---
 
 # Heading

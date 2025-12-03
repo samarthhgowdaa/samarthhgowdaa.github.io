@@ -10,6 +10,7 @@ image:
 pin: false
 math: true
 mermaid: true
+comments: true
 ---
 ## A trip to the past
 
