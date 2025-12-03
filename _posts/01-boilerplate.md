@@ -12,6 +12,13 @@ math: true
 mermaid: true
 comments: true
 ---
+<a href="" target="_blank" rel="noopener noreferrer"> Text </a> //ctrl + . to define the links into short forms
+
+or 
+
+{: target="_blank" rel="noopener noreferrer"}
+
+{: width="auto" height="300" rel="noopener noreferrer"} // use this for images from other websites
 
 # Heading
 ## Sub-Heading
