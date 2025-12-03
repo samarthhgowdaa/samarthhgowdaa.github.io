@@ -1,3 +1,37 @@
+# Samarth Gowda Blogs
+
+A personal blog built with **Jekyll** and the **Chirpy** theme, deployed using **GitHub Pages**. I write about electronics, microcontrollers, VLSI, embedded systems, learning journeys, my personal projects and experiencecs.
+
+## Comments
+
+This blog uses [Giscus][giscus] as the comment system. To leave a comment, you must be logged into a GitHub account, since all comments are stored as GitHub discussions.
+
+If you don't have GitHub, feel free to reach me out via [email][email]
+
+## Local Development
+
+To run this site locally I use docker, with commands:
+
+```bash
+bundle install
+bundle exec jekyll serve
+```
+
+
+## Deployment
+
+This blog auto-deploys using GitHub actions
+
+## Author
+
+**Samarth Gowda** <br> 
+Just a Geek
+
+Blog: https://samarthhgowdaa.github.io/
+
+
+For more details, check out the Chirpy starter below, which I forked and customized for this blog.
+
 # Chirpy Starter
 
 [![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)][gem]&nbsp;
@@ -41,3 +75,5 @@ This work is published under [MIT][mit] License.
 [chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/
 [CD]: https://en.wikipedia.org/wiki/Continuous_deployment
 [mit]: https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE
+[giscus]: https://giscus.app/
+[email]: samarthac4work@gmail.com
