@@ -1,5 +1,5 @@
 ---
-title: Dreams to reality - My sponsorship story with Espressif
+title: Dreams to reality - My Sponsorship Story with Espressif
 date: 2025-11-25 11:43:00 +0530
 categories: [Stories, Sponsorship]
 tags: [esp32, deutsch-diary, micro-controller, story]
