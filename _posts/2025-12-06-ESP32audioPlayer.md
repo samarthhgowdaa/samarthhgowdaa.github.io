@@ -12,5 +12,3 @@ math: true
 mermaid: true
 comments: true
 ---
-
-<h1 style="color:#00b0ff; text-align:center;"> <b>Work in Progress!</b> </h1>
