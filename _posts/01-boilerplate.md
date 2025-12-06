@@ -20,6 +20,7 @@ or
 
 {: width="auto" height="300" rel="noopener noreferrer"} // use this for images from other websites
 
+# <h1 style="color:#00b0ff; text-align:center;"> <b>WORK IN PROGRESS</b> </h1>
 # Heading
 ## Sub-Heading
 ### Sub-sub-Heading
