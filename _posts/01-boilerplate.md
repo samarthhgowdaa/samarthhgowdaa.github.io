@@ -7,7 +7,7 @@ description: Boiler plate code
 image:
   path: /assets/img/cover.png
   alt: Image size should be 1200 x 630 or 1.91 : 1
-pin: true
+pin: false
 math: true
 mermaid: true
 comments: true
@@ -71,3 +71,4 @@ _Image Description_
 {% include embed/youtube.html id='' %}
 
 
+Categories
