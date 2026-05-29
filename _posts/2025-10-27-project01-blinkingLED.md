@@ -238,9 +238,21 @@ But for digital electronics and embedded systems, PWM is the *right* tool.
 
 {% include embed/youtube.html id='qwHTpr8Wc6c' %}
 
-### PCB
+## PCB
 
-Oh and I also got into PCB designing, Just check this blog!
+Oh and I also got into PCB designing, Just check this [blog](https://samarthhgowdaa.github.io/posts/pcbDesign/){: target="_blank" rel="noopener noreferrer"} out, I designed a PCB plug and play kinda board for this project, the schematics, PCB layoot and the 3D view of the PCB. Here you go.
+
+### The Schematic
+
+![pcb schematic](/assets/img/PCB/project_blinkingLED/trilight_schematic.png){: width"="auto" height="auto"}
+
+### PCB layout
+
+![pcb layout](/assets/img/PCB/project_blinkingLED/trilight.png){: width="auto" height="auto"}
+
+### 3D view
+
+![3d view of the pcb](/assets/img/PCB/project_blinkingLED/trilight_3d.png){: width="auto" height="auto"}
 
 ---
 ## Conclusion
