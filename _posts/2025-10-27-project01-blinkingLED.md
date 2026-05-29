@@ -4,6 +4,9 @@ date: 2025-10-27
 categories: [Projects, Arduino]
 tags: [arduino, deutsch-diary, projects]
 description: Project 01 - Learning the fundamentals of Arduino through LED blink, sequencing, and PWM brightness control
+image:
+  path: /assets/img/PCB/project_blinkingLED/trilight_3d.png
+  alt: the first project
 math: true
 mermaid: true
 comments: true
