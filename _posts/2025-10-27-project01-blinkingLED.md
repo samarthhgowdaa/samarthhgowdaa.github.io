@@ -238,6 +238,10 @@ But for digital electronics and embedded systems, PWM is the *right* tool.
 
 {% include embed/youtube.html id='qwHTpr8Wc6c' %}
 
+### PCB
+
+Oh and I also got into PCB designing, Just check this blog!
+
 ---
 ## Conclusion
 ---
