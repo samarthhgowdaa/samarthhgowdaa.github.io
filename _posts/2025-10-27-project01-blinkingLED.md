@@ -244,15 +244,15 @@ Oh and I also got into PCB designing, Just check this [blog](https://samarthhgow
 
 ### The Schematic
 
-![pcb schematic](/assets/img/PCB/project_blinkingLED/trilight_schematic.png){: width"="auto" height="auto"}
+![pcb schematic](/assets/img/PCB/project_blinkingLED/trilight_schematic.png){: width"="400" height="auto"}
 
 ### PCB layout
 
-![pcb layout](/assets/img/PCB/project_blinkingLED/trilight.png){: width="auto" height="auto"}
+![pcb layout](/assets/img/PCB/project_blinkingLED/trilight.png){: width="300" height="auto"}
 
 ### 3D view
 
-![3d view of the pcb](/assets/img/PCB/project_blinkingLED/trilight_3d.png){: width="auto" height="auto"}
+![3d view of the pcb](/assets/img/PCB/project_blinkingLED/trilight_3d.png){: width="300" height="auto"}
 
 ---
 ## Conclusion
