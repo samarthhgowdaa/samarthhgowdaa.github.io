@@ -24,7 +24,7 @@ Where to learn? What particular tools to use? Resources? Data sheets? Are you sa
 >He who is everywhere is Nowhere -Seneca
 {: .prompt-tip}
 
-I searched and searched only to find my go-to channel for electronics had made a video on it, the video which I'm referring to is "[Design and Build a PCB - SMD LED Learn electronics engineering](https://youtu.be/hr1gUTix3_M?si=jetUZN61Ta23ZYRN){: target="_blank" rel="noopener noreferrer"}" uploaded by The Engineering Mindset
+I searched and searched only to find my go-to channel for electronics had made a video on it, the video which I'm referring to is "[Design and Build a PCB - SMD LED Learn electronics engineering](https://youtu.be/hr1gUTix3_M?si=jetUZN61Ta23ZYRN){: target="_blank" rel="noopener noreferrer"}" uploaded by The Engineering Mindset.
 
 
 
