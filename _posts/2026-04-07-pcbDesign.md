@@ -5,8 +5,8 @@ categories: [Electronics, PCB-Designing]
 tags: [pcb-design, altium]
 description: Starting out in the world of PCB Design
 image:
-  path: /assets/img/covers/flat-lay-circuit-board-close-up.png
-  alt: flat lay circuit board close-up.jpg
+  path: /assets/img/covers/flat-lay-circuit-board-close-up.jpg
+  alt: flat lay circuit board close-up
 pin: false
 math: true
 mermaid: true
